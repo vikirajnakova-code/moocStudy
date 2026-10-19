@@ -1,2 +1,2 @@
 # moocStudy
-### https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-fall-2026/chapter-1
+### https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-fall-2026
